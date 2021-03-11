@@ -1,0 +1,19 @@
+
+.home-data{
+	padding: 20rpx 40rpx;
+}
+.home-data>view{
+	color: #989898;
+}
+.home-data>view>view{
+	font-size: 32rpx;
+	color: #333333;
+}
+.home-adv{
+	padding: 20rpx;
+}
+.home-adv>image{
+	border-radius: 20rpx;
+	height: 150rpx;
+}
+

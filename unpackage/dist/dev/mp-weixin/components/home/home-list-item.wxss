@@ -1,0 +1,22 @@
+
+.home-list.data-v-d94f30ce{
+	padding: 20rpx;
+}
+.home-list-item.data-v-d94f30ce{
+	padding: 20rpx;
+	border-top: 1rpx solid #f4f4f4;
+	border-bottom: 1rpx solid #f4f4f4;
+}
+.home-list-item>view.data-v-d94f30ce:first-child{
+	color: #333333;
+}
+.home-list-item>view:first-child>view.data-v-d94f30ce{
+	margin-right: 10rpx;
+}
+.home-list-item>view.data-v-d94f30ce:last-child{
+	color: #CCCCCC;
+}
+.home-list-hover.data-v-d94f30ce{
+	background: #f4f4f4;
+}
+

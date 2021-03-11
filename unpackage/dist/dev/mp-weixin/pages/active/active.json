@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "动态",
+  "usingComponents": {
+    "common-list": "/components/common/common-list",
+    "active-nav-bar": "/components/active/active-nav-bar",
+    "load-more": "/components/common/load-more",
+    "topic-nav": "/components/active/topic-nav",
+    "topic-list": "/components/active/topic-list"
+  }
+}

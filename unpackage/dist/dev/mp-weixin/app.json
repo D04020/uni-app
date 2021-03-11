@@ -1,0 +1,62 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/active/active",
+    "pages/paper/paper",
+    "pages/my/my",
+    "pages/search/search",
+    "pages/add-input/add-input",
+    "pages/topic-detail/topic-detail",
+    "pages/user-list/user-list",
+    "pages/user-chat/user-chat",
+    "pages/detail/detail",
+    "pages/user-set/user-set",
+    "pages/user-set-repassword/user-set-repassword",
+    "pages/user-set-email/user-set-email",
+    "pages/user-set-userinfo/user-set-userinfo",
+    "pages/user-set-help/user-set-help",
+    "pages/user-set-about/user-set-about",
+    "pages/login/login",
+    "pages/user-space/user-space"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "borderStyle": "black",
+    "selectedColor": "#f4ea2a",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "糗事",
+        "iconPath": "static/img/embarrassment-0.png",
+        "selectedIconPath": "static/img/embarrassment-1.png"
+      },
+      {
+        "pagePath": "pages/active/active",
+        "text": "动态",
+        "iconPath": "./static/img/dynamic state-0.png",
+        "selectedIconPath": "./static/img/dynamic state-1.png"
+      },
+      {
+        "pagePath": "pages/paper/paper",
+        "text": "小纸条",
+        "iconPath": "static/img/small bell-0.png",
+        "selectedIconPath": "static/img/small bell-1.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/img/mine-0.png",
+        "selectedIconPath": "static/img/mine-1.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap69.json"
+}
